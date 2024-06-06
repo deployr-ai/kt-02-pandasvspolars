@@ -4,9 +4,9 @@ Este repositorio contiene dos notebooks de Python que comparan las bibliotecas P
 ## Dataset
 Te dejamos [acá](https://drive.google.com/file/d/1sfmFcNyYjhdtOQGIU5xkawjTuGzo9IYZ/view?usp=drive_link) el dataset que acompaña la notebook por si querés replicar el experimento. 
 
-El dataset completo se puede descargar en el siguiente [enlace](https://www.kaggle.com/datasets/sunnykakar/spotify-charts-all-audio-data/data)
+El dataset completo se puede descargar en el siguiente [enlace](https://www.kaggle.com/datasets/sunnykakar/spotify-charts-all-audio-data/data).
 
-## Descripción de los Notebooks
+## Descripción de las notebooks
 pandas.ipynb
 polars.ipynb
 
@@ -20,7 +20,7 @@ En estas dos notebooks, exploramos y demostramos las capacidades de Pandas y Pol
 
 ## Requisitos
 
-Para ejecutar los notebooks, necesitas tener instaladas las siguientes bibliotecas:
+Para ejecutar las notebooks, necesitas tener instaladas las siguientes bibliotecas:
 
     pandas
     polars
@@ -39,7 +39,7 @@ Puedes instalar estas bibliotecas usando pip:
 
     Clona este repositorio en tu máquina local.
     Navega al directorio del repositorio.
-    Abre los notebooks utilizando Jupyter Notebook o cualquier otra herramienta compatible.
+    Abre las notebooks utilizando Jupyter Notebook o cualquier otra herramienta compatible.
 
 ## bash
 
@@ -49,11 +49,11 @@ jupyter notebook
 
 ## Contribuciones
 
-¡Las contribuciones son bienvenidas! Si tienes alguna idea para mejorar estos notebooks o agregar más comparaciones, no dudes en abrir un issue o enviar un pull request.
-Licencia
+¡Las contribuciones son bienvenidas! Si tienes alguna idea para mejorar estas notebooks o agregar más comparaciones, no dudes en abrir un issue o enviar un pull request.
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 ## Contacto
 
 Para cualquier pregunta o sugerencia, puedes contactarme a través de fabricio@deployr.ai
-O en nuestra [página web](https://www.deployr.ai/)
+
+
+O en nuestra [página web](https://www.deployr.ai/).
