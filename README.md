@@ -38,8 +38,10 @@ Puedes instalar estas bibliotecas usando pip:
 ## Uso
 
     Clona este repositorio en tu máquina local.
+    Descargar el dataset
     Navega al directorio del repositorio.
-    Abre las notebooks utilizando Jupyter Notebook o cualquier otra herramienta compatible.
+    Crear una carpeta dataset en el repositorio descomprimir el .zip esta última carpeta
+    Abre las notebooks utilizando Jupyter Notebook o cualquier otra herramienta compatible desde el directorio del repositorio.
 
 ## bash
 
