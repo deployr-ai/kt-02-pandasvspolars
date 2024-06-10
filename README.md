@@ -45,9 +45,9 @@ Puedes instalar estas bibliotecas usando pip:
 
 ## bash
 
-git clone git@github.com:deployr-ai/kt-02-pandasvspolars.git
-cd kt-02-pandasvspolars
-jupyter notebook
+    git clone git@github.com:deployr-ai/kt-02-pandasvspolars.git
+    cd kt-02-pandasvspolars
+    jupyter notebook
 
 ## Contribuciones
 
